@@ -200,3 +200,4 @@ I cleaned a raw dataset, answered three questions with charts and built a dashbo
 
 **Dataset:** Kaggle – Healthcare Insurance (https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance), accessed 9 Nov 2026. Add the licence shown on the Kaggle page here.
 **AI acknowledgement:** Claude (Anthropic) helped with code and drafting. All results were checked in the notebook.
+# Data-Analytics-Healthcare-Project
